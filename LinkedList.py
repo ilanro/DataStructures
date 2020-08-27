@@ -52,7 +52,6 @@ class LinkedList:
             self.head = self.head.next
         prev.next = it.next
 
-
     def remove_value(self, all_instances=False):
         pass
 
